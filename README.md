@@ -16,6 +16,7 @@ To see all the components open figma
 
 
 I would be very grateful if the payment is in the polygon blockchain or BNB chain: 0x938764C2C7eaf81f98d596C68EC8178e6278f838
+I do not have Paypal
 
 
 ![Homepage](https://user-images.githubusercontent.com/101134545/160725184-7bae9128-b564-4da6-9e27-8592391a1a7f.jpg)
