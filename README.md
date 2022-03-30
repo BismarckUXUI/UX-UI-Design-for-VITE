@@ -1,18 +1,21 @@
 # UXUI-Design-Joint-Account-for-VITE
 https://www.figma.com/file/1ku6RdI3AKMJ5PDaskW0hh/UX%2FUI-Joint-Account-(Only-Cover)?node-id=4%3A47
 
+
 To request the editable file, 
 contact me.
-.
+
+
 Taking into account that if this design is approved, it is most likely that things will be incorporated or removed. 
 So the dark mode and the cell mode were not done so as not to work twice.
 If approved, I promise to make those versions.
-. 
-. 
+
+
+
 To see all the components open figma
-. 
-.
-.
+
+
+
 ![Homepage](https://user-images.githubusercontent.com/101134545/160725184-7bae9128-b564-4da6-9e27-8592391a1a7f.jpg)
  
  
